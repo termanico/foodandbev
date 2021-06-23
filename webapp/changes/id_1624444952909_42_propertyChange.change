@@ -1,0 +1,41 @@
+{
+    "fileName": "id_1624444952909_42_propertyChange",
+    "fileType": "change",
+    "changeType": "propertyChange",
+    "moduleName": "",
+    "reference": "sap.fe.demo.foodandbev",
+    "packageName": "",
+    "content": {
+        "property": "liveMode",
+        "newValue": true
+    },
+    "selector": {
+        "id": "sap.fe.demo.foodandbev::sap.suite.ui.generic.template.ListReport.view.ListReport::Products--listReportFilter",
+        "idIsLocal": false,
+        "type": "sap.ui.comp.smartfilterbar.SmartFilterBar"
+    },
+    "layer": "VENDOR",
+    "texts": {},
+    "namespace": "apps/sap.fe.demo.foodandbev/changes/",
+    "projectId": "sap.fe.demo.foodandbev",
+    "creation": 1624444952909,
+    "originalLanguage": "",
+    "support": {
+        "generator": "changeUtils: SAPFioriTools",
+        "service": "",
+        "user": "",
+        "sapui5Version": "latest",
+        "sourceChangeFileName": "",
+        "compositeCommand": ""
+    },
+    "oDataInformation": {},
+    "dependentSelector": {},
+    "validAppVersions": {
+        "from": "1.0.0",
+        "to": "1.0.0",
+        "creation": "1.0.0"
+    },
+    "jsOnly": false,
+    "variantReference": "",
+    "appDescriptorChange": false
+}
